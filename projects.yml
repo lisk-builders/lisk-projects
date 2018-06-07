@@ -1,0 +1,110 @@
+version: 0.1
+projects:
+  sidechains:
+    -
+      name: moosty
+      description: Moosty is aiming to be a decentralized organisation for musicians.
+      website: https://www.moosecoin.io
+    -
+      name: moracle
+      description: Moracle will let Lisk apps get information from the open web.
+      website: https://moracle.network
+    -
+      name: ren
+      description: an educational incentive platform for children
+      website: https://rencoin.io
+    -
+      name: adamant
+      description: adamant is the most private messenger to this date.
+      website: https://adamant.im
+    -
+      name: brikbit
+      description: develops and manages entire operations for the real sstate industry.
+      website: https://brikbit.io
+    -
+      name: sapiens
+      description: A decentralized academic and reputation platform
+      website: https://sapiensproject.io
+  tools:
+    -
+      name: lisk-builders
+      description: A complete directory of Lisk delegates that also actively contribute
+      website: https://lisk.builders
+    -
+      name: lisk-buttons
+      description: Lisk Buttons allow you to open Lisk Nano wallet with pre-filled forms
+      website: https://github.com/lisk-builders/lisk-buttons
+    -
+      name: lisk-ticker
+      description: A simple Chrome Extension showing current Lisk price ticker.
+      website: https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd
+    -
+      name: lisk-js-pool
+      description: A configurable pool script for Lisk
+      website: https://github.com/lisk-builders/lisk-js-pool
+    -
+      name: lisk-node-management
+      description: A small CLI tool to manage your node
+      website: https://github.com/lisk-builders/lisk-node-management
+    -
+      name: lisk.rb
+      description: A simple Ruby wrapper for the Lisk API.
+      website: https://github.com/lisk-builders/lisk.rb
+    -
+      name: liskpro
+      description: everything about the Lisk ecosystem in French
+      website: https://www.liskpro.com
+    -
+      name: lisk-support
+      description: The go-to community website for everything you need to know about Lisk
+      website: https://www.lisk.support
+    -
+      name: lisk-hd-key
+      description: Key Derivation for Lisk coin
+      website: https://github.com/lisk-builders/lisk-hd-key
+    -
+      name: lisk-forging-failover
+      description: Simple background script to forge on the currently the best synced node
+      website: https://github.com/lisk-builders/Lisk-forging-failover
+    -
+      name: lisk-php
+      description: Interface to interact with Lisk network via PHP
+      website: https://github.com/karek314/lisk-php
+    -
+      name: lisk-php-pool
+      description: First open source lisk delegated pool
+      website: https://github.com/karek314/liskpool
+    -
+      name: lisk-network-reporter
+      description: Backend service which runs along with Lisk and tracks the network status
+      website: https://github.com/karek314/lisk-network-reporter
+    -
+      name: lisk-cute-assistant
+      description: A cute Lisk Core Assistant for remote Node Management via Telegram
+      website: https://github.com/xunga/lisk-cute-assistant
+    -
+      name: lisk-network-stats
+      description: This is a visual interface for tracking lisk network status
+      website: https://github.com/karek314/lisk-network-stats
+    -
+      name: liskPaper
+      description: A paper wallet creator for Lisk
+      website: https://github.com/xunga/LiskPaper
+    -
+      name: Pending Lisk Checker
+      description: A tool to check the pending LSK payout for a address
+      website: https://pending.lisk.ws/
+    -
+      name: Lisk Export
+      description: Export your Lisk transactions as CSV
+      website: https://github.com/tobiaslins/lisk-export
+    -
+      name: Lisk Avatar
+      description: Generate Lisk Avatars from your Lisk ID
+      website: https://github.com/tobiaslins/lisk-avatar
+    -
+      name: Lisk Telegram bot
+      description: A telegram Lisk bot
+      website: https://bot.lisk.supply
+
+

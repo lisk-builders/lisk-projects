@@ -1,0 +1,17 @@
+{
+  "name": "lisk-projects",
+  "version": "0.1",
+  "description": "An overview of all projects related to Lisk. Ranging from sidechains to mainchain community tools",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisk-builders/lisk-projects.git"
+  },
+  "author": "Lisk Builders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisk-builders/lisk-projects/issues"
+  },
+  "homepage": "https://github.com/lisk-builders/lisk-projects#readme"
+}
