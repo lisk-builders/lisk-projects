@@ -75,6 +75,36 @@
         "website": "https://www.lisk.support"
       },
       {
+        "name": "total-payouts",
+        "description": "This tool will calculate total payouts",
+        "website": "https://lisk.support/total-payouts"
+      },
+      {
+        "name": "lisk-pending",
+        "description": "This tool will calculate pending payouts",
+        "website": "https://lisk.support/lisk-pending"
+      },
+      {
+        "name": "delegate-rank-tracker",
+        "description": "This tool will calculate total payouts",
+        "website": "https://lisk.support/delegate-rank-tracker"
+      },
+      {
+        "name": "vote-manager",
+        "description": "manages the votes you want to perform with different voting strategies",
+        "website": "https://lisk.builders/votemanager"
+      },
+      {
+        "name": "lisk-listen",
+        "description": "realtime lisk transaction visualizer",
+        "website": "https://lisklisten.net/"
+      },
+      {
+        "name": "lisk-support-api",
+        "description": "this is the public API from Lisk.support ",
+        "website": "https://api.lisk.support"
+      },
+      {
         "name": "lisk-hd-key",
         "description": "Key Derivation for Lisk coin",
         "website": "https://github.com/lisk-builders/lisk-hd-key"
